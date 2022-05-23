@@ -1,16 +1,6 @@
-
-
 % -------------------------------------------------
-% Citation details:
-% G. Sayed, A. Hassanien and A. Taher, “Feature selection via a novel chaotic crow search algorithm”,
-% Neural Computing and Applications, DOI  10.1007/s00521-017-2988- , 1-32,
-% 2017.
-
-% Programmed by Gehad Ismail Sayed
-% Faculty of Computers and Information, Cairo University
-% Date of programming: October 2017 %
 % -------------------------------------------------
-% This demo implements chaotic CSA as feature selection aglorithm
+% Article: Novel optimized crow search algorithm (NOCSA)
 % -------------------------------------------------
 function [Worst,Best,Mean,SD,ASS,ECSA_fit_Mean9,ECSA_ACC_Mean]=BCCSA(x,ft,N,tmax,l,u,pd,fobj,AP,fl,ChaosVec)
 
